@@ -1,3 +1,7 @@
 add
 new branch son 2
 new branch continue
+new branch continue after push 1
+new branch continue after push 2
+add new branch 2
+edit on new branch 2 
